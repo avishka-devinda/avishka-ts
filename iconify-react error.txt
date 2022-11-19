@@ -1,0 +1,12 @@
+NonErrorEmittedError: (Emitted value instead of an instance of Error)
+  x Unexpected token `@`. Expected this, import, async, function, [ for array literal, { for object literal, @ for decorator, function, class, null, true, false, number, bigint, string, regexp, `
+  | for template literal, (, or an identifier
+    ,-[E:\my-project\avishkadev-ts\app\page.tsx:18:1]
+ 18 | @iconify/react doesn't work in the app directory
+    : ^
+    `----
+
+Caused by:
+    0: failed to process js file
+    1: failed to process input file
+    2: Syntax Error
